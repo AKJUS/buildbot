@@ -58,7 +58,7 @@ pypugjs==5.11.0
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.2
-requests==2.32.3
+requests==2.32.4
 responses==0.25.3
 ruff==0.11.8
 s3transfer==0.10.4
